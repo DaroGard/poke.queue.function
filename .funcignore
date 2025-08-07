@@ -1,0 +1,13 @@
+.venv
+.vscode/
+.venv/
+env/
+funcenv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.git/
+.gitignore
+*.md
+tests/
